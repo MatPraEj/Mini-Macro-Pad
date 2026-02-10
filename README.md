@@ -4,6 +4,8 @@ Mini macropad is a 6 key "macropad" with a rotary encoder and OLED Display to al
 
 Why macropad in ""? Although it can function as a macropad when used with VIA, its main purpose is to act as a second mini keyboard with the RCTL, RSFT, LEFT, UP, DOWN, RIGHT buttons to serve as a sort of controller for PC where the second player plays on arrow keys and two buttons!
 
+<img src=assets/CAD.png alt="the whole macropad assembly" width="500"/>
+
 ## Features:
 - a Sturdy case with multiple points where the PCB is supported to minimize flex
 - a recessed USB-C port
@@ -17,7 +19,7 @@ The Mini macropad is put together using 4 M3x16mm bolts and 4 heatset inserts, w
 
 There are 3 seperate pieces of the case: the bottom where the PCB sits on a raised ledge around the edges as well as center supports; the middle part that acts as the plate for keyswitches, it is 3mm thick to allow for sturdiness but has a recess around the switch holes so they can clip in; and the top which covers the middle plate and sits flush with the bottom of the keycaps.
 
-<img src=assets/CAD.png alt="the whole macropad assembly" width="500"/>
+<img src=assets/fit.png alt="how the case parts align" width="300"/>
 
 Learning Fusion 360 was a bit of a pain but I got the hang of it, now I can describe my experience only with one word: Nifty.
 
