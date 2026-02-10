@@ -27,10 +27,12 @@ Below is my PCB made in KiCad, Joe Scotto's guide's came in incredibly handy wit
 I also snuck in a silkscreen easter egg of a sketch of the mini macropad :D
 
 Schematic
-<img src=assets/schematic.jpeg alt="the PCB schematic" width="500"/>
+
+<img src=assets/schematic.jpeg alt="the PCB schematic" width="300"/>
 
 PCB
-<img src=assets/pcb.jpeg alt="the PCB" width="500"/>
+
+<img src=assets/pcb.jpeg alt="the PCB" width="300"/>
 
 ## Firmware
 I used [QMK](https://qmk.fm/) for the firmware here, it was a massive pain to setup but if VIA works (fingers crossed!) it will be worth it, if it doesn't I'll do whatever to make it work.
