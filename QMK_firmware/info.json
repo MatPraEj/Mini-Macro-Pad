@@ -9,8 +9,7 @@
         "extrakey": true,
         "mousekey": true,
         "nkro": true,
-        "encoder": true,
-        "via": true
+        "encoder": true
     },
     "matrix_pins": {
         "cols": ["GP26", "GP27", "GP28", "GP29"],
@@ -21,7 +20,7 @@
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0003",
-        "vid": "0x2E8A"
+        "vid": "0x4D50"
     },
     "encoder": {
         "enabled": true,
